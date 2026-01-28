@@ -30,7 +30,7 @@ Safety reminder: Always verify schemes on official government portals.
 
 Demo Screenshot
 
-![gov_scheme_project](assets/pic1)
+![gov_scheme_project](assets/pic1.png)
 
 Tech Stack
 
