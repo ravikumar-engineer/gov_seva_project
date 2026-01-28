@@ -46,7 +46,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/gov-scheme-chatbot.git
+git clone https://github.com/ravikumar-engineer/gov_seva_project
 cd gov-scheme-chatbot
 
 
