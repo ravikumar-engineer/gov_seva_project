@@ -127,4 +127,4 @@ User inputs are used for eligibility checks and personalized suggestions.
 
 License
 
-MIT License © 2026 [Your Name]
+MIT License © 2026 [Ravi kumar]
