@@ -17,8 +17,6 @@ st.set_page_config(
     page_icon="🇮🇳",
     layout="centered"
 )
-
-
 st.title("🇮🇳 Government Scheme Advisor")
 st.caption("Brutally honest. Actually useful.")
 
@@ -64,8 +62,7 @@ Task:
 Recommend the best government schemes with steps.
 """
     # Model that is *actually supported* via providers
-    model_id = "mistralai/Mistral-7B-Instruct-v0.3"
-
+    model_id = "deepseek-ai/DeepSeek-V3-0324"
 
     response = client.chat_completion(
         model=model_id,
