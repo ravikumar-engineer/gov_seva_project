@@ -62,7 +62,7 @@ Task:
 Recommend the best government schemes with steps.
 """
     # Model that is *actually supported* via providers
-     model_id = "Qwen/Qwen2.5-7B-Instruct"
+    model_id = "Qwen/Qwen2.5-7B-Instruct"
 
     response = client.chat_completion(
         model=model_id,
