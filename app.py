@@ -49,6 +49,8 @@ STRICT RULES:
 - Prefer Central then State
 - Use bullets
 - Plain text output
+-If the user asks anything outside Indian government schemes, politely refuse and redirect them back to scheme-related questions.
+
 """
     user_prompt = f"""
 User Profile:
